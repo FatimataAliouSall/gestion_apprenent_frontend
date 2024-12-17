@@ -26,11 +26,11 @@ Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments 
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone https://github.com/Fatoumacisse99/gestion_apprenants_frontend.git
+   git clone https://github.com/FatimataAliouSall/gestion_apprenent_frontend.git
    ```
 
    ```bash
-   cd gestion_apprenants_frontend
+   cd gestion_apprenent_frontend
    ```
 
 2. **Installer les dépendances** :
@@ -47,12 +47,11 @@ Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments 
 ## Fonctionnalités
 
 - **Gestion des Etudiants** : Créer, modifier,consulter ou supprimer un etudiant.
-
 - **Gestion des Modules** : Créer, modifier, consulter ou supprimer des modules.
 - **Gestion des Inscriptions** : Ajouter, modifier et supprimer des inscription.
 - **Gestion des Payements** : Ajouter, modifier et supprimer des payement.
 
 ## Auteur
 
-### [Fatimata Sall](https://github.com/FatimataAliouSall)
+### [Fatimata Aliou Sall](https://github.com/FatimataAliouSall)
 
