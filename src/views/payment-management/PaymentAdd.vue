@@ -96,7 +96,7 @@
             id="payerNumber"
             v-model="form.amount"
             class="form-control"
-            placeholder="Numéro téléphone du payeur"
+            placeholder="Entrer le montant"
             :class="{'is-invalid': errors.amount}"
           />
           <div v-if="errors.payerNumber" class="invalid-feedback">{{ errors.payerNumber }}</div>
